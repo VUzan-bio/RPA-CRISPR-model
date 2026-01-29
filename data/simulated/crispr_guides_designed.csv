@@ -1,0 +1,2 @@
+gene,drug,target_strand,pam,spacer_sequence,snp_position_in_spacer,in_seed,rank,amplicon_context
+katG,INH,-,TTTC,CGTTGAGCGACACGGTCGTT,2,True,High (Seed + PAM),Mutant

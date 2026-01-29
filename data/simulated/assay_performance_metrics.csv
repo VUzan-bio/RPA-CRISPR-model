@@ -1,0 +1,4 @@
+assay,LOD_copies_uL,Cutoff_Signal,EC50
+katG_S315T,2950.0,0.029,80.8
+rpoB_S531L,6312.4,0.032,120.4
+inhA_promoter,4407.8,0.039,141.6

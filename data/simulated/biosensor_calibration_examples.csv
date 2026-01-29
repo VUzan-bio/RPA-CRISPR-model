@@ -1,0 +1,9 @@
+assay,concentration_copies_per_uL,ideal_signal,noisy_signal,noise_sigma,drift_component
+rpoB_S450L,0,0.02,0.021,0.003,0.000
+rpoB_S450L,10,0.15,0.147,0.003,0.001
+rpoB_S450L,100,0.55,0.563,0.005,0.002
+rpoB_S450L,1000,0.92,0.907,0.007,0.003
+katG_S315T,0,0.02,0.019,0.003,0.000
+katG_S315T,10,0.17,0.166,0.003,0.001
+katG_S315T,100,0.57,0.574,0.005,0.002
+katG_S315T,1000,0.91,0.918,0.007,0.003

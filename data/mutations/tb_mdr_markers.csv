@@ -1,0 +1,15 @@
+gene,genomic_position,start,end,drug,reference,note
+rpoB,761155,759807,763325,rifampicin,WHO_2021,RRDR region 426-452
+katG,2155168,2153889,2156111,isoniazid,WHO_2021,Catalase-peroxidase
+inhA_promoter,1673425,1672819,1674202,isoniazid,WHO_2021,Enoyl-ACP reductase promoter
+pncA,2289000,2288681,2289241,pyrazinamide,WHO_2021,Pyrazinamidase Rv2043c
+embB,4248000,4246514,4249810,ethambutol,WHO_2021,Arabinosyltransferase Rv3795
+gyrA,8500,7302,9818,fluoroquinolones,WHO_2021,DNA gyrase subunit A Rv0006
+gyrB,6250,5240,7267,fluoroquinolones,WHO_2021,DNA gyrase subunit B Rv0005
+rrs,1472500,1471846,1473382,aminoglycosides,WHO_2021,16S rRNA gene
+eis,2714000,2713682,2714155,aminoglycosides,WHO_2021,Enhanced intracellular survival Rv2416c
+ethA,4327000,4326240,4327088,ethionamide,WHO_2021,Monooxygenase Rv3854c
+Rv0678,779250,778990,779487,bedaquiline/clofazimine,WHO_2021,MmpL5 efflux repressor
+Rv1979c,2223000,2222541,2223188,bedaquiline/clofazimine,WHO_2021,Hypothetical protein
+Rv2535c,2850000,2849417,2850202,bedaquiline,WHO_2021,PepQ peptidase
+ddn,3985000,3984738,3985199,delamanid/pretomanid,WHO_2021,Deazaflavin nitroreductase Rv3547
