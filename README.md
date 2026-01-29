@@ -1,1 +1,8 @@
-A machine learning framework for automated multiplex CRISPR assay design that combines JEPA-based self-supervised pretraining with multi-objective guide optimization. Given genomic coordinates, the system generates candidate Cas12a guides, scores individual efficiency using a fine-tuned JEPA encoder, and optimizes guide combinations for pairwise compatibility and global multiplex quality. Validated on 13 MDR-TB resistance markers with mean predicted efficiency 0.51 and guide-guide compatibility 0.80, demonstrating that learned representations capture both cut efficiency and cross-reactivity risk. The pipeline is designed to accelerate diagnostic assay development by replacing manual heuristic design with data-driven multiplex optimization, achieving end-to-end automation from genome to validated guide panels.
+## RPA-CRISPR: Multiplex CRISPR Guide Design via Foundation Models
+
+A machine learning framework for automated multiplex CRISPR assay design that combines JEPA-based self-supervised pretraining with multi-objective guide optimization. 
+Given genomic coordinates, the system generates candidate Cas12a guides, scores individual efficiency using a fine-tuned JEPA encoder, and optimizes guide combinations for pairwise compatibility and global multiplex quality. 
+
+Validated on 13 MDR-TB resistance markers with mean predicted efficiency 0.51 and guide-guide compatibility 0.80, demonstrating that learned representations capture both cut efficiency and cross-reactivity risk. 
+
+The pipeline is designed to accelerate diagnostic assay development by replacing manual heuristic design with data-driven multiplex optimization, achieving end-to-end automation from genome to validated guide panels.
